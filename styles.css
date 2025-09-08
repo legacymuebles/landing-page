@@ -65,10 +65,11 @@ h3 { font-size: 1.8rem; }
 }
 
 .logo-text {
-    font-family: var(--font-heading);
+    font-family: 'Copperplate Gothic', sans-serif;
     font-size: 1.5rem;
     letter-spacing: 1.5px;
     color: var(--text-color);
+    font-weight: bold;
 }
 
 .nav-link {

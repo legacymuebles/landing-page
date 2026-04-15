@@ -1,8 +1,0 @@
-Esta carpeta es para tus archivos estáticos.
-Cualquier imagen que pongas aquí será accesible directamente desde el código.
-
-Ejemplo:
-Si guardas una imagen llamada 'mi-foto.jpg' aquí, en el código (App.tsx) la usarás así:
-image: "/mi-foto.jpg"
-
-Nota: No borres esta carpeta, es necesaria para que el sitio funcione correctamente al publicarlo.
